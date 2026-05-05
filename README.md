@@ -14,6 +14,7 @@ The server validates correctness in real-time
 
 🧠 Protocol Design
 📡 Communication Flow
+![Network Topology](./images/topology.png)
 ⚙️ Features
 🔹 Client (Lab 1a)
 Supports DNS, IPv4, IPv6 resolution
